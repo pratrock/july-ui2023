@@ -1,0 +1,1 @@
+[{"content":"import {scrren, render} from '@testing-library/rewact'\r\nfunction RoleExample(){\r\n  <div>\r\n    <a href=\"/\">Link</a>\r\n    <button>Button</button>\r\n    <footer></footer>\r\n  </div>\r\n}","type":"code","id":"7mehs"},{"content":"","type":"code","id":"l6da4"}]
